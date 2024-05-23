@@ -1,0 +1,12 @@
+{
+  "name": "risk-management-backend",
+  "version": "1.0.0",
+  "description": "Backend for risk management system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
